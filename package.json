@@ -1,0 +1,24 @@
+{
+    "name": "choqok",
+    "version": "1.0.0",
+    "description": "protobuf codec for Node",
+    "main": "./src/app.js",
+    "scripts": {
+        "start": "node ./src/app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mohsenmoqadam/Choqok.git"
+    },
+    "author": "Mohsen Moqadam",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mohsenmoqadam/Choqok/issues"
+    },
+    "homepage": "https://github.com/mohsenmoqadam/Choqok#readme",
+    "dependencies": {
+        "command-exists": "^1.2.8",
+        "protocol-buffers": "^4.1.0"
+    }
+}

@@ -1,0 +1,16 @@
+package sample.rep;
+
+message Obj1 {
+    required string a = 1;
+    required string b = 2;
+}
+
+message Obj2 {
+    required string a = 1;
+    required string b = 2;
+}
+
+message Obj3 {
+    required string a = 1;
+    required string b = 2;
+}

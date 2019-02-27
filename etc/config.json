@@ -1,0 +1,8 @@
+{
+    "name": "codec",
+    "version": "1.0.0",
+    "description": "protobuf codec",
+    "author": "Mohsen Moqadam",
+    "saveProjectIn": ".",
+    "getProtoFrom": "./proto"
+}

@@ -1,0 +1,17 @@
+{
+    "sample.req.proto": {
+        "Obj1": 10001,
+        "Obj2": 10002,
+        "Obj3": 10003
+    },
+    "sample.rep.proto": {
+        "Obj1": 10021,
+        "Obj2": 10022,
+        "Obj3": 10023
+    },
+    "sample.sig.proto": {
+        "Obj1": 10031,
+        "Obj2": 10032,
+        "Obj3": 10033
+    }
+}
