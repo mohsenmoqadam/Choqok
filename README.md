@@ -11,6 +11,7 @@ Choqok gets proto files and delivers you one NodeJS application:
 - Now chane directoy and run Choqok:
 	```
 	cd Choqok
+	npm install 
 	npm start
 	```
 When you run Choqok, it creates a NodeJS application in `./codec` directory. You can move it anywhere you like or set the created application path in the configuration file. Furthermore 
